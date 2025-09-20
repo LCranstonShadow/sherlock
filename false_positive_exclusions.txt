@@ -1,5 +1,7 @@
 APClips
 Coders Rank
+CyberDefenders
+Eintracht Frankfurt Forum
 Freelance.habr
 GNOME VCS
 Giphy
@@ -8,8 +10,6 @@ Heavy-R
 LessWrong
 LushStories
 Mydramalist
-Newgrounds
-PepperIT
 PocketStars
 Reddit
 Roblox
@@ -24,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
