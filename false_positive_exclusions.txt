@@ -1,13 +1,13 @@
 APClips
+Audiojungle
 Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
-GitBook
 HackerEarth
 Heavy-R
 LessWrong
-LiveJournal
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -15,12 +15,15 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
+Snapchat
+SpeakerDeck
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
