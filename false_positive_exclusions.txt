@@ -1,7 +1,4 @@
 APClips
-Audiojungle
-Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,8 +12,6 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-Snapchat
-SpeakerDeck
 Splice
 Spotify
 Topcoder
@@ -26,4 +21,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
