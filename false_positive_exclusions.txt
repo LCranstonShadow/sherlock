@@ -1,12 +1,13 @@
 APClips
 BoardGameGeek
-Coders Rank
+Carbonmade
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
@@ -22,4 +23,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
