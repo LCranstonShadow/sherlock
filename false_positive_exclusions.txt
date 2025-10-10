@@ -1,5 +1,5 @@
 APClips
-Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,7 +13,6 @@ Splice
 Spotify
 Topcoder
 Weblate
-Wordnik
 YandexMusic
 kaskus
 svidbook
