@@ -1,21 +1,19 @@
 APClips
+BreachSta.rs Forum
 GNOME VCS
 Giphy
-HackerEarth
-HackerNews
 Heavy-R
-Itch.io
 LessWrong
 LushStories
-PepperIT
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
