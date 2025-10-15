@@ -1,19 +1,18 @@
 APClips
-BreachSta.rs Forum
+CGTrader
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
 opennet
+programming.dev
 svidbook
-xHamster
