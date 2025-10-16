@@ -1,18 +1,18 @@
 APClips
-CGTrader
+BreachSta.rs Forum
+Coders Rank
 GNOME VCS
 Giphy
 Heavy-R
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
-opennet
-programming.dev
 svidbook
