@@ -1,18 +1,18 @@
 APClips
-BreachSta.rs Forum
-Coders Rank
+Audiojungle
+Cults3D
+DeviantArt
 GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
