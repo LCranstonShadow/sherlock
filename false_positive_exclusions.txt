@@ -1,16 +1,15 @@
 APClips
 Coders Rank
 DeviantArt
-GNOME VCS
 Giphy
+HackerRank
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
-Topcoder
 Weblate
 YandexMusic
 opennet
