@@ -1,7 +1,7 @@
 APClips
+Anilist
 Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -10,8 +10,7 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
