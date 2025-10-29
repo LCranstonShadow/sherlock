@@ -4,12 +4,13 @@ GNOME VCS
 Giphy
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
