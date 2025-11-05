@@ -1,11 +1,8 @@
 APClips
-CGTrader
-Carbonmade
-Cracked Forum
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -13,7 +10,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-nnRU
 opennet
-phpRU
 svidbook
+xHamster
