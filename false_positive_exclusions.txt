@@ -1,14 +1,8 @@
 APClips
-Anilist
-Archive.org
-Audiojungle
-Coders Rank
+CGTrader
 DeviantArt
 GNOME VCS
 Giphy
-Gravatar
-LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
