@@ -1,16 +1,17 @@
 APClips
-CGTrader
-DeviantArt
+Archive.org
+Freelancer
 GNOME VCS
 Giphy
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
