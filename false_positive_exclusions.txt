@@ -3,12 +3,14 @@ Archive.org
 DeviantArt
 GNOME VCS
 Giphy
+GitHub
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Strava
 Trovo
 Weblate
 YandexMusic
