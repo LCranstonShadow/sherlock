@@ -10,7 +10,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Strava
 Trovo
 Weblate
 YandexMusic
