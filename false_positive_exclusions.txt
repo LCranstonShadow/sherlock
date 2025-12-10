@@ -5,10 +5,9 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -17,5 +16,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
