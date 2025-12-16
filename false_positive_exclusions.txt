@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 Archive.org
 Code Snippet Wiki
 Coders Rank
@@ -12,9 +11,12 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
+SlideShare
 Splice
 Spotify
-Vero
+TryHackMe
 Weblate
 YandexMusic
+opennet
 svidbook
