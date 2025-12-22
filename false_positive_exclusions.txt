@@ -1,13 +1,16 @@
 APClips
+Archive.org
 Code Snippet Wiki
-Eintracht Frankfurt Forum
+DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
-Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,8 +18,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
+threads
