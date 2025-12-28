@@ -16,5 +16,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
