@@ -1,10 +1,10 @@
 APClips
 Archive.org
-DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -21,10 +21,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
