@@ -2,20 +2,18 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -27,7 +25,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
-opennet
 phpRU
 svidbook
