@@ -11,6 +11,8 @@ Hubski
 LessWrong
 Patched
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -19,6 +21,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Trovo
@@ -30,3 +33,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
