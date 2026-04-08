@@ -2,14 +2,16 @@
 APClips
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
+DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Pornhub
@@ -23,6 +25,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
