@@ -1,6 +1,5 @@
 7Cups
 APClips
-Academia.edu
 Archive.org
 Bandcamp
 Codolio
@@ -8,10 +7,10 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
@@ -33,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
