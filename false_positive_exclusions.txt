@@ -4,8 +4,9 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,6 +17,7 @@ Minecraft
 Patched
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
