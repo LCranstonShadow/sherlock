@@ -1,7 +1,6 @@
 7Cups
 APClips
 Airliners
-Anilist
 Apple Discussions
 Archive.org
 Bandcamp
@@ -38,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
