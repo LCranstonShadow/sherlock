@@ -11,7 +11,6 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Motherless
 Patched
 Pornhub
@@ -21,6 +20,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -37,4 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
