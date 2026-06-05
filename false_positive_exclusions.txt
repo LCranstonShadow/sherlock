@@ -11,9 +11,9 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -39,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
