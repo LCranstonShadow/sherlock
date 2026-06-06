@@ -11,9 +11,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
+GitHub
 Hashnode
 Hubski
+LessWrong
 Patched
 Pornhub
 Rarible
