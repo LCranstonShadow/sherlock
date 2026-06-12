@@ -14,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -21,8 +22,10 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
@@ -35,9 +38,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-threads
-xHamster
