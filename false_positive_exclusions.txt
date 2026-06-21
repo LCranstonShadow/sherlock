@@ -40,3 +40,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
