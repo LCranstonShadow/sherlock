@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,7 +15,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 Odysee
 Patched
 Pornhub
@@ -36,10 +35,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
+hunting
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
