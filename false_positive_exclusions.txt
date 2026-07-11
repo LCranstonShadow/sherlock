@@ -12,7 +12,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -31,8 +30,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Tenor
 Trovo
 TryHackMe
+Valorant Forums
 Velomania
 Weblate
 YandexMusic
