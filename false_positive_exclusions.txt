@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -16,8 +15,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -29,8 +28,10 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SmugMug
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
