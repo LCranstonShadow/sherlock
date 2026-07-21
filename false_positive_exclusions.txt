@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
@@ -15,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Linktree
 Minecraft
 Odysee
 PCGamer
@@ -28,11 +25,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -46,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
