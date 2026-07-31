@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -17,7 +18,9 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,7 +37,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -45,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
