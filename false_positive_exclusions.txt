@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,12 +16,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +32,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
