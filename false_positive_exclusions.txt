@@ -1,6 +1,5 @@
 7Cups
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -17,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
 PCGamer
 Rarible
