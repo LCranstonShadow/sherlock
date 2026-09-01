@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Odysee
 PCGamer
 Pornhub
 Rarible
@@ -38,6 +38,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -49,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
