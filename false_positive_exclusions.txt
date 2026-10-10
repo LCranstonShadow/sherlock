@@ -5,15 +5,14 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -24,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,15 +38,17 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
