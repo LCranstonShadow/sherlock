@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -5,6 +6,7 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -35,6 +37,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
