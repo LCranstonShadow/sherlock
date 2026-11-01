@@ -21,7 +21,6 @@ Hubski
 Instapaper
 Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,9 +32,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -49,3 +48,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
