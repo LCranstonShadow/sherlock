@@ -10,7 +10,9 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitHub
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
