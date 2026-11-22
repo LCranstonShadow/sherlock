@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -33,6 +31,7 @@ TryHackMe
 Velomania
 Vero
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -42,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
